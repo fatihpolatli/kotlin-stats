@@ -1,5 +1,12 @@
 # Application to process data from online CSV files with Kotlin
 
+### Requirements
+
+<ul>
+  <li>Java 21</li>
+  <li>Maven</li>
+</ul>
+
 ### Description
 
 This application process csv data about specific statistics and return desired results. There are 2 services getting CSV file url. Services fetchs CSV file, process data inside and return desired statistics in desired format.
